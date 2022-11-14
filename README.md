@@ -2,4 +2,4 @@
 
 재밌다
 
-update1
+update2
